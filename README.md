@@ -1,7 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Accordion component ,Search bar, Dropdown architecture,Translate functionality, 
+Accordion component ,Search bar, Dropdown architecture,Translate functionality
+!['video of the overall view'](https://github.com/ArpitaDeb/widgets/blob/main/docs/AccordionApp.gif?raw=true)
+!['SearchFaeture'](https://github.com/ArpitaDeb/widgets/blob/main/docs/Search.png?raw=true)
+!['TranslatetoFewOtherLanguages'](https://github.com/ArpitaDeb/widgets/blob/main/docs/Translate.png?raw=true)
 
 ## Available Scripts
 
